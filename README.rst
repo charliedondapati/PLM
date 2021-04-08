@@ -37,7 +37,7 @@ Example usage:
 
 Authors & Acknowledgements:
  - See the included AUTHORS file for more information.
- - Special thanks to the author or the paper [1] - Yimin Yang, Comp. Sc, Lakehead University.
+ - Special thanks to Yimin Yang, Comp. Sc, Lakehead University (the author of the paper [1]).
   
 License:
  This software is licensed under the BSD License. See the included LICENSE file for more information.
