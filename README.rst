@@ -20,16 +20,14 @@ Dataset:
 
 
 Main module & function:
-
-- PLM.pelm is the main module used to call train and test functions
-- pelm() is the wrapper function that calls train and test functions internally. The number of epochs can be specified as a parameter, the default is epochs=20.
+ - PLM.pelm is the main module used to call train and test functions
+ - pelm() is the wrapper function that calls train and test functions internally. The number of epochs can be specified as a parameter, the default is epochs=20.
 
 Installation:
  >>> pip install PLM
 
 
 Example usage:
-
   >>> from PLM.pelm import pelm
   >>> n = 10;
   >>> parameter1 = 10;
@@ -42,7 +40,6 @@ Authors & Acknowledgements:
 - Special thanks to the author or the paper [1] - Yimin Yang, Comp. Sc, Lakehead University.
   
 License:
-
  This software is licensed under the BSD License. See the included LICENSE file for more information.
 
 
