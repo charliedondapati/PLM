@@ -47,6 +47,7 @@ References:
 
 1. Yimin Yang, Yaonan Wang, Q.M.Jonathan Wu et al. ”Progressive Learning Machine: A New Approach for General Hybrid System Approximation”. IEEE Transactions on Neural Networks and Learning Systems. Vol. 26, pp. 1855 - 1874, 2015.
 2. Yimin Yang, Wang Yaonan, et al. "Bidirectional extreme learning machine for regression problem and its learning effectiveness". IEEE Transactions on Neural Networks and Learning Systems. 23(9), pp. 1498 - 1505. 2012.
-3. https://www.ntu.edu.sg/home/egbhuang/
-4. https://docs.nvidia.com/cuda/
-5. https://towardsdatascience.com/introduction-to-extreme-learning-machines-c020020ff82b
+3. http://www.yiminyang.com/publications.html
+4. https://www.ntu.edu.sg/home/egbhuang/
+5. https://docs.nvidia.com/cuda/
+6. https://towardsdatascience.com/introduction-to-extreme-learning-machines-c020020ff82b
