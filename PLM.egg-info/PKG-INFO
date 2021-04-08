@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: PLM
+Version: 0.0.0
+Summary: Bidirectional ELM neural network implementation for regression problem
+Home-page: UNKNOWN
+Author: Charlie Dondapati
+Author-email: cdondapa@lakeheadu.ca
+License: BSD (3-clause)
+Description: UNKNOWN
+Keywords: BELM PLM  regression
+Platform: UNKNOWN
