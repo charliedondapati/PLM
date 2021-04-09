@@ -7,16 +7,18 @@ Description:
 
 Development:
  The Structure of PLM has 2 main stages:
-   - Training Data: cluster growing and optimal offspring cluster selection
-   - Testing Data:  cluster estimation for testing data points
+ 
+ - Training Data: cluster growing and optimal offspring cluster selection
+ - Testing Data:  cluster estimation for testing data points
   
  Bi-directional ELM(B-ELM) is used in PLM to train multiple neural networks on clusters of several continous systems and optimal NN for each cluster is selected. These selected B-ELM NNs are used on clusters of test data.
 
 Dataset:
  Based on the dataset functions presented in [1], datasets are generated. Datasets should be processed as below:
-   - Data: Input features are arranged in column before Output
-   - Output: Input features are followed by output for each row in the column
-   - Label: Output feature is followed by the cluster label
+ 
+ - Data: Input features are arranged in column before Output
+ - Output: Input features are followed by output for each row in the column
+ - Label: Output feature is followed by the cluster label
 
 
 Main module & function:
